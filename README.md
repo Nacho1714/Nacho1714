@@ -16,16 +16,12 @@
 
 <!-- HEADER: Typing SVG animado -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FF2D20&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=620&height=100&lines=Full+Stack+Developer;PHP+%7C+Laravel+%7C+Vue.js+%7C+Docker" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=FF2D20&center=true&vCenter=true&repeat=true&random=false&width=600&lines=Full+Stack+Developer;PHP+%7C+Laravel+%7C+Vue.js+%7C+Docker" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Badges de contacto -->
-[![GitHub](https://img.shields.io/badge/Nacho1714-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nacho1714)
-<!-- DESCOMENTAR: LinkedIn — cuando tengas perfil activo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU-USUARIO)
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ignacio-barros-dev)
 <!-- DESCOMENTAR: Portfolio — cuando tengas sitio web
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tu-portfolio.com)
 -->
@@ -39,8 +35,6 @@
 
 ## 👋 About Me
 
-I'm **Ignacio**, a Full Stack Developer from **Argentina 🇦🇷** specializing in the **PHP/Laravel** ecosystem.
-
 I build custom web applications for clients — from gathering requirements to shipping production-ready software on **LEMP** environments with **Docker**. My focus is on clean, maintainable code following **OOP** and **SOLID** principles, with strong emphasis on **RESTful API** design.
 
 Currently pursuing a degree in **Cybersecurity** at [UNIR](https://www.unir.net/) — bridging the gap between secure development and modern web architecture.
@@ -49,9 +43,6 @@ Currently pursuing a degree in **Cybersecurity** at [UNIR](https://www.unir.net/
 - 🔭 Currently working on: **[nombre del proyecto]**
 - 🌱 Currently learning: **[tecnología]**
 -->
-- 📍 Based in Buenos Aires, Argentina
-- 💼 Open to **100% remote** opportunities
-- 🎓 Studying **Cybersecurity** @ UNIR (Universidad Internacional de La Rioja)
 
 ---
 
@@ -260,7 +251,7 @@ Currently pursuing a degree in **Cybersecurity** at [UNIR](https://www.unir.net/
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU-USUARIO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ignacio-barros-dev)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu@email.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tu-portfolio.com)
 
