@@ -194,6 +194,10 @@ Currently pursuing a degree in **Cybersecurity** at [UNIR](https://www.unir.net/
 
 -->
 
+<!-- ═══════════════════════════════════════════════════════════════════
+     DESCOMENTAR: GitHub Stats — cuando tengas actividad significativa
+     (Mínimo recomendado: +100 commits, algunos PRs, y repos con stars)
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -202,32 +206,27 @@ Currently pursuing a degree in **Cybersecurity** at [UNIR](https://www.unir.net/
 
 </div>
 
-<!-- DESCOMENTAR: Top Languages — cuando tus repos públicos reflejen PHP/Laravel
-     (Ahora mismo muestra Shell 100% lo cual no representa tu stack real)
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nacho1714&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
 
 </div>
--->
 
-<!-- DESCOMENTAR: GitHub Streak — cuando tengas actividad constante de commits
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nacho1714&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
--->
 
-<!-- DESCOMENTAR: Trofeos de GitHub — cuando tengas más actividad
 <div align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Nacho1714&theme=tokyonight&no-frame=true&no-bg=true&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
--->
 
 ---
+
+-->
 
 <!-- DESCOMENTAR: Proyectos destacados — cuando tengas repos públicos relevantes
 
