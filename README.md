@@ -16,7 +16,7 @@
 
 <!-- HEADER: Typing SVG animado -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=FF2D20&center=true&vCenter=true&repeat=true&random=false&width=600&lines=Full+Stack+Developer;PHP+%7C+Laravel+%7C+Vue.js+%7C+Docker" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=0D9488&center=true&vCenter=true&repeat=true&random=false&width=600&lines=AI-Driven+Fullstack+Developer;React+%7C+TypeScript+%7C+Laravel;Agentic+engineering+with+Claude+Code" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -35,43 +35,65 @@
 
 ## 👋 About Me
 
-I build custom web applications for clients — from gathering requirements to shipping production-ready software on **LEMP** environments with **Docker**. My focus is on clean, maintainable code following **OOP** and **SOLID** principles, with strong emphasis on **RESTful API** design.
+Fullstack developer with 3 years at a state pension fund in Argentina, where I'm one of the two developers of its production web platform (**Laravel 12**, **Vue 3**, **MySQL**). On my own initiative I'm rebuilding that platform as a **Laravel 13** API and a **React 19 + TypeScript** app, with the architecture documented in ADRs.
 
-<!-- DESCOMENTAR: cuando tengas más contexto profesional
-- 🔭 Currently working on: **[nombre del proyecto]**
-- 🌱 Currently learning: **[tecnología]**
--->
+I work with **Claude Code** every day: I design the context the agent uses (project rules, ADRs, memory, subagents) and verify its output with automated tests and CI checks.
+
+---
+
+## 🚀 Highlights
+
+- **Platform rebuild** · self-initiated, sole developer · pre-production — Laravel 13 API (260+ endpoints, 19 modules) and React 19 + TypeScript app built in 5 months; unit, component and Playwright e2e tests plus mutation testing in CI.
+- **Agentic development workflow** — context engineering across projects cut the average context per call by 58%, measured with a self-built analyzer; GitHub rulesets require 2 passing CI checks and an approval for every agent PR.
+- **Website for a family-owned industrial manufacturer** · sole developer — Next.js 16 + Payload CMS on PostgreSQL, ETL from the legacy PHP/MySQL site and automated CI/CD to Google Cloud Run (staging).
+
+<sub>Most of this work lives in private repositories.</sub>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Backend
+### AI-Assisted Development
 
-![PHP](https://img.shields.io/badge/PHP_8-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Eloquent ORM](https://img.shields.io/badge/Eloquent_ORM-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Context Engineering](https://img.shields.io/badge/Context_Engineering-0D9488?style=for-the-badge)
 
 ### Frontend
 
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Blade](https://img.shields.io/badge/Blade-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TanStack](https://img.shields.io/badge/TanStack_Router%2FQuery-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue_3-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 
-### Infrastructure — LEMP Stack
+### Backend & Data
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP_8-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel_12--13-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Testing & CI/CD
+
+![Pest](https://img.shields.io/badge/Pest-F28D1A?style=for-the-badge&logo=pestphp&logoColor=white)
+![PHPUnit](https://img.shields.io/badge/PHPUnit-3F9CD6?style=for-the-badge&logo=php&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![PHPStan](https://img.shields.io/badge/PHPStan-4F5B93?style=for-the-badge&logo=php&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### Tools & Workflow
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -100,18 +122,6 @@ I build custom web applications for clients — from gathering requirements to s
 ![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=black)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white)
-
--->
-
-<!-- ═══════════════════════════════════════════════════════════════════
-     DESCOMENTAR: Testing & QA — cuando practiques TDD con Pest/PHPUnit
-     (Aparece en el 80%+ de las ofertas Laravel mid/senior)
-
-### Testing & QA
-
-![Pest PHP](https://img.shields.io/badge/Pest-f28d1a?style=for-the-badge&logo=pestphp&logoColor=white)
-![PHPUnit](https://img.shields.io/badge/PHPUnit-3f9cd6?style=for-the-badge&logo=php&logoColor=white)
-![Laravel Dusk](https://img.shields.io/badge/Laravel_Dusk-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 -->
 
