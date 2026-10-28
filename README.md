@@ -37,8 +37,6 @@
 
 I build custom web applications for clients — from gathering requirements to shipping production-ready software on **LEMP** environments with **Docker**. My focus is on clean, maintainable code following **OOP** and **SOLID** principles, with strong emphasis on **RESTful API** design.
 
-Currently pursuing a degree in **Cybersecurity** at [UNIR](https://www.unir.net/) — bridging the gap between secure development and modern web architecture.
-
 <!-- DESCOMENTAR: cuando tengas más contexto profesional
 - 🔭 Currently working on: **[nombre del proyecto]**
 - 🌱 Currently learning: **[tecnología]**
